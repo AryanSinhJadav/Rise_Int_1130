@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 echo "Local change to index.txt" > index.txt
+=======
+echo "hello, thid is my first git file." > index.txt
+final changes
+>>>>>>> 600fe13a3f7aa3583378a05aab645a515486d34d
